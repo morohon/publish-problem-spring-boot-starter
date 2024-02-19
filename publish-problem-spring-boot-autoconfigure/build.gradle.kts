@@ -4,7 +4,7 @@ plugins {
 
 dependencies {
 
-    implementation("org.springframework.boot:spring-boot-starter")
-    implementation("org.springframework.boot:spring-boot-starter-web")
+    implementation("org.springframework.boot:spring-boot-starter:3.2.2")
+    implementation("org.springframework.boot:spring-boot-starter-web:3.2.2")
 
 }
